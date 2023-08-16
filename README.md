@@ -1,5 +1,5 @@
 <h1>Hola 👋, I'm Gagan Mishra</h1>
-<h3>A passionate MERN Stack developer from India</h3>
+<h3>Aspiring MERN Stack developer from India</h3>
 <h5>Passionate MERN Stack Developer and enthusiastic open-source contributor, eager to embark on a rewarding career in the world of web development. Proficient in MongoDB, Express.js, React.js, and Node.js, with a focus on building scalable and efficient applications. Committed to delivering exceptional user experiences through clean, well-structured code and intuitive interfaces.
 <br/>  
 <br/>  
